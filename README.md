@@ -1,6 +1,8 @@
-![](C:/Users/oe/PycharmProjects/measurement_problems/Rating_Product_Sorting_Reviews_Amazon/images/rating-product&sorting-reviews-in-amazon.png)
-
 # Rating Product & Sorting Amazon Reviews
+
+![Rating_Product_Sorting_Reviews_Amazon](images/rating-product&sorting-reviews-in-amazon.png)
+
+# Business Problem Purpose
 
 One of the most important problems in e-commerce is the correct calculation of the points given to the products after the sale. 
 
